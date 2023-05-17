@@ -1,0 +1,16 @@
+GPT API - 
+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
+
+
+
+Pexels API 
+
+bLa3a4kyawXI0hk7Y18fFWQ9oer9XuwulOlxnw0F3qZrsKpOFGJKnFYA
+
+
+
+DISCORD 
+MTEwODI2MTA5MDUwMjExOTQ2NA.Gs1Ith.S6DPirTlmM8YqFsN5oWiG4SHP5RcDVgqYDeJzk
+
+URL - 
+https://discord.com/api/oauth2/authorize?client_id=1108261090502119464&permissions=534723947584&scope=bot
