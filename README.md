@@ -5,15 +5,13 @@ The Gamepedia Bot is a bot that suggests indoor and outdoor games to play and pr
 Features
 •	Generates game suggestions for indoor and outdoor activities.
 •	Retrieves information and rules about the suggested game using the OpenAI GPT API.
-•	Displays an image related to the suggested game using the DALL·E image generation API.
+•	Displays an image related to the suggested game using the pexel image generation API.
 •	Built with the Discord.py library.
 
 
 Installation
-•	Clone the repository:
-o	Run the following command: git clone https://github.com/your-username/discord-game-suggestion-bot.git
+•	Clone this repository:
 •	Install the required dependencies:
-o	Run the following command: pip install -r requirements.txt
 •	Obtain API keys:
 o	Discord bot token: Obtain a bot token by creating a new bot on the Discord Developer Portal.
 o	OpenAI GPT API key: Sign up for an API key at the OpenAI website.
